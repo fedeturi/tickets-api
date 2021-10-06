@@ -88,7 +88,6 @@ The following are some examples for every use case, using curl:
    ```sh
    curl -d "title=Title&category=Maintenance&type=task" http://localhost:8000/ticket/
    ```
-   ```
 
 	Create BUG Ticket 
    ```sh
